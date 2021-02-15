@@ -1,0 +1,47 @@
+[main] WARN  org.test.Parser.App  - Warn Message!
+  [main] ERROR org.test.Parser.App  - Error Message!
+  [main] FATAL org.test.Parser.App  - Fatal Message!
+  [main] INFO  org.test.Parser.App  - Info Message!
+  [main] WARN  org.test.Parser.App  - Warn Message!
+  [main] ERROR org.test.Parser.App  - Error Message!
+  [main] FATAL org.test.Parser.App  - Fatal Message!
+  [main] FATAL org.test.Parser.App  - Fatal Message!
+  [main] FATAL org.test.Parser.App  - Fatal Message!
+  [main] INFO  org.test.Parser.App  - File Parser Started..!!
+  [main] INFO  org.test.JSONParser.JSONParser  - JSONParser has started..!!
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformJSON has started
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformXML has started
+  [main] INFO  org.test.Parser.App  - File Parser Started..!!
+  [main] INFO  org.test.Parser.App  - Reading input form directory C:\Users\at186045\eclipse-workspace\FileParser\sampleFiles
+  [main] INFO  org.test.JSONParser.JSONParser  - JSONParser has started..!!
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformJSON has started
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformXML has started
+  [main] INFO  org.test.Parser.App  - File Parser Started..!!
+  [main] INFO  org.test.Parser.App  - Reading input form directory C:\Users\at186045\eclipse-workspace\FileParser\sampleFiles
+  [main] INFO  org.test.JSONParser.JSONParser  - JSONParser has started..!!
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformJSON has started
+  [main] INFO  org.test.Parser.App  - Writting output to file C:\Users\at186045\logs\ApplicationEvent.txt
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformXML has started
+  [main] INFO  org.test.Parser.App  - Writting output to file C:\Users\at186045\logs\ApplicationEvent.txt
+  [main] INFO  org.test.Parser.App  - File Parser Started..!!
+  [main] INFO  org.test.Parser.App  - Reading input form directory C:\Users\at186045\eclipse-workspace\FileParser\sampleFiles
+  [main] INFO  org.test.JSONParser.JSONParser  - JSONParser has started..!!
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformJSON has started
+  [main] INFO  org.test.Parser.App  - Writting output to file C:\Users\at186045\logs\ApplicationEvent.txt
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformXML has started
+  [main] INFO  org.test.Parser.App  - Writting output to file C:\Users\at186045\logs\ApplicationEvent.txt
+  [main] INFO  org.test.Parser.App  - File Parser Started..!!
+  [main] INFO  org.test.Parser.App  - Reading input form directory C:\Users\at186045\eclipse-workspace\FileParser\sampleFiles
+  [main] INFO  org.test.JSONParser.JSONParser  - JSONParser has started..!!
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformJSON has started
+  [main] INFO  org.test.Parser.App  - Writting output to file C:\Users\at186045\logs\ApplicationEvent.txt
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformXML has started
+  [main] INFO  org.test.Parser.App  - Writting output to file C:\Users\at186045\logs\ApplicationEvent.txt
+  [main] INFO  org.test.Parser.App  - File Parser Started..!!
+  [main] INFO  org.test.Parser.App  - Reading input form directory C:\Users\at186045\eclipse-workspace\FileParser\sampleFiles
+  [main] INFO  org.test.JSONParser.JSONParser  - JSONParser has started..!!
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformJSON has started
+  [main] INFO  org.test.Parser.App  - Writting output to file C:\Users\at186045\logs\ApplicationEvent.txt
+  [main] INFO  org.test.JSONParser.JSONParser  - TransformXML has started
+  [main] INFO  org.test.Parser.App  - Writting output to file C:\Users\at186045\logs\ApplicationEvent.txt
+  
